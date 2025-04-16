@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cs,py,matlab,md,latex,swift,r,unity,react,tailwind,vite,pytorch,vscode,anaconda,figma,git,github&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cs,py,matlab,md,latex,swift,r,unity,react,tailwind,vite,pytorch,vscode,anaconda,figma,git,github,linux,apple&theme=light&perline=8)](https://skillicons.dev)
 
 ## Languages
 
