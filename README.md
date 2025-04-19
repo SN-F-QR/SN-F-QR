@@ -2,9 +2,24 @@
 
 I’m a PhD student with passions for:
 
-- Research of eXtended Reality
+- Human-Computer Interaction and eXtended Reality
 - Front-end development
-- AI-powered technologies
+- Large Lanugage Models applications
+
+See also: [Homepage](https://yangzhan.pages.dev/)
+
+## Skills
+
+[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cs,py,matlab,md,latex,swift,r,unity,react,tailwind,vite,pytorch,vscode,anaconda,figma,git,github,linux,apple&theme=light&perline=8)](https://skillicons.dev)
+
+## Languages
+
+I can speak:
+
+- Chinese (Mandarin, Cantonese)
+- English
+- Japanese (a little, qwq)
+
 
 <!--
 **SN-F-QR/SN-F-QR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,15 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Skills
-
-[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cs,py,matlab,md,latex,swift,r,unity,react,tailwind,vite,pytorch,vscode,anaconda,figma,git,github,linux,apple&theme=light&perline=8)](https://skillicons.dev)
-
-## Languages
-
-I can speak:
-
-- Chinese (Mandarin, Cantonese)
-- English
-- Japanese (a little, qwq)
