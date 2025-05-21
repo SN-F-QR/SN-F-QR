@@ -6,11 +6,11 @@ I’m a PhD student with passions for:
 - Front-end development
 - Large Lanugage Models applications
 
-See also: [Homepage](https://yangzhan.pages.dev/)
+See also: [Homepage](https://yangzhanz.com/)
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cs,py,matlab,md,latex,swift,r,unity,react,tailwind,vite,pytorch,vscode,anaconda,figma,git,github,linux,apple&theme=light&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cs,py,matlab,md,latex,swift,r,unity,react,tailwind,vite,docker,express,pytorch,vscode,anaconda,figma,git,github,linux,apple&theme=light)](https://skillicons.dev)
 
 ## Languages
 
