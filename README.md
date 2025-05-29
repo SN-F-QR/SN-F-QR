@@ -10,7 +10,7 @@ See also: [Homepage](https://yangzhanz.com/)
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cs,py,matlab,md,latex,swift,r,unity,react,tailwind,vite,docker,express,pytorch,vscode,anaconda,figma,git,github,linux,apple&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,c,cs,py,matlab,md,latex,swift,r,unity,react,tailwind,vite,vitest,docker,express,sqlite,pytorch,vscode,anaconda,pnpm,figma,git,github,linux,apple&theme=light)](https://skillicons.dev)
 
 ## Languages
 
